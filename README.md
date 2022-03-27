@@ -1,1 +1,4 @@
-# image_classification
+# Face/comic recognizer
+This document describes the project for the «Algorithms for massive data» module taught at the Master in «Data Science for Economics» at the Università degli Studi di Milano.
+The task is to implement a deep-learning-based system discriminating between real faces and comics, using The «Comic faces» dataset is published on Kaggle
+Dataset: https://www.kaggle.com/datasets/defileroff/comic-faces-paired-synthetic-v2. Consists of 2 different folders 'comics' 'faces' with 10000 images in each of them
